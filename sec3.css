@@ -1,0 +1,53 @@
+nav{
+    background-color: lightgreen;
+    color:black;
+    padding: 25px;
+  
+  }
+  li,h1,ul{
+    display: inline;
+  }
+  ul{
+    margin-left: 60%;}
+    
+    .apple{
+        border-color: black;
+        border-width: 2px;
+        border-style: solid ;
+       display: inline-block;
+        width: 200px;
+        
+      }
+      .mango{
+        border-color: black;
+        border-width: 2px;
+        border-style: solid ;
+       display: inline-block;
+        width: 200px;
+      
+      }
+      .grapes{
+        border-color: black;
+        border-width: 2px;
+        border-style: solid ;
+       display: inline-block;
+        width: 200px;
+      }
+      .pomegranate{
+        border-color: black;
+        border-width: 2px;
+        border-style: solid ;
+       display: inline-block;
+        width: 200px;
+        
+      
+      }
+      img{
+        width: 200px;
+        height: 70px;
+        object-fit: contain;
+      }
+      .product{
+        text-align: center;
+        padding: 30px;
+      }

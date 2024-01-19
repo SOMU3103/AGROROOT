@@ -1,0 +1,23 @@
+
+.top{
+  background-color: lightgreen;
+}
+.down{
+ background-color:lightgreen;
+}
+
+
+ .box{
+   float: right;
+    width: 50%;
+    height: 10%;
+   
+ }
+ .center{
+  position: absolute;
+  width: 46%;
+  left: 25%;
+  }
+  .next{
+    text-align: end;
+  }

@@ -1,0 +1,77 @@
+nav{
+    background-color: lightgreen;
+    color:black;
+    padding: 25px;
+  
+  }
+  li,h1,ul{
+    display: inline;
+    
+  }
+  ul{
+    margin-left: 60%;
+  }
+  li{
+    color: rgb(1, 21, 7);
+    cursor: pointer;
+   
+  
+  }
+   li:hover{
+   color: green;
+   } 
+  input{
+    width: 60%;
+    padding: 10px;
+    
+    
+  }
+  .scearch{
+  text-align: center;
+  padding:20px;
+  
+  }
+  .apple{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid ;
+   display: inline-block;
+    width: 200px;
+    
+  }
+  .mango{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid ;
+   display: inline-block;
+    width: 200px;
+  
+  }
+  .grapes{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid ;
+   display: inline-block;
+    width: 200px;
+  }
+  .pomegranate{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid ;
+   display: inline-block;
+    width: 200px;
+  
+  }
+  img{
+    width: 200px;
+    height: 220px;
+    object-fit: contain;
+  }
+  .product{
+    text-align: center;
+    padding: 30px;
+  }
+  .about{
+    text-align: center;
+    margin-top: 10px;
+  }
